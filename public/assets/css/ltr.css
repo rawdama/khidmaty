@@ -1,0 +1,9 @@
+.sidebar{
+  direction:ltr;
+font-family: "Droid Sans", sans-serif/*rtl:prepend:"Droid Arabic Kufi",*/;
+font-size:16px/*rtl:14px*/;
+
+}
+.container-fluid{
+  direction:ltr;
+}
